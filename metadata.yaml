@@ -1,0 +1,31 @@
+_repo: The-Three-Choirs-A-Handbook-to-the-Cathedrals-of-Gloucester-Hereford-and-Worcester-A-Complete__65390
+_version: 0.0.1
+creator:
+  author:
+    agent_name: King, R. J. (Richard John)
+    alias: King, Richard John
+    birthdate: 1818
+    deathdate: 1879
+    gutenberg_agent_id: '53314'
+    url: http://www.gutenberg.org/2009/agents/53314
+description: ''
+gutenberg_issued: '2021-05-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65390'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gloucester Cathedral'
+- !lcsh 'Cathedrals -- England'
+- !lcsh 'Church architecture -- England'
+- !lcc 'NA'
+- !lcsh 'Worcester Cathedral'
+- !lcsh 'Hereford Cathedral'
+- GITenberg
+title: "The Three Choirs: A Handbook to the Cathedrals of Gloucester, Hereford, and\
+  \ Worcester\r\nA Complete Description of the Buildings, a History of Each Diocese\
+  \ and Biographical Notices of the Bishops"
+url: http://www.gutenberg.org/ebooks/65390
